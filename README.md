@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evdoshchenko
 - 👀 I’m interested in IT, QA
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
+- 🌱 I’m currently learning HTML, CSS, MySQL, JavaScript, React
 - 💞️ I’m looking to collaborate on web and mobile application
 - 📫 How to reach me https://t.me/ak4j7
 
