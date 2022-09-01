@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evdoshchenko
-- 👀 I’m interested in IT, QA
-- 🌱 I’m knowing HTML, CSS, SQL, JavaScript, React
+- 👀 I'm interested in Front-End Development
+- 🌱 I’m knowing JavaScript, React, HTML5, CSS3, SQL
 - 💞️ I’m looking to collaborate on web and mobile application
 - 📫 How to reach me https://t.me/ev8ko
 
