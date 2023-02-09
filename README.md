@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @evdoshchenko
-- 👀 I'm interested in Front-End Development
-- 🌱 I’m knowing JavaScript, React, HTML5, CSS3, SQL
+- 👋 Hey, I'm Danil!
+- 👀 I create apps for the web and make life easier and smarter
+- 🌱 My favorite tech stack: TypeScript, React, Redux, Git, Docker, Vite, HTML5, SASS, Node.JS
 - 💞️ I’m looking to collaborate on web and mobile application
 - 📫 How to reach me https://t.me/ev8ko
-
-<!---
-evdoshchenko/evdoshchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
