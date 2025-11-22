@@ -10,7 +10,9 @@ class WebDeveloper {
   }
 
   greet() {
-    return `I am ${this.name}, a ${this.role}.\nI work with: ${this.stack.join(", ")}.\nThanks for dropping by!`;
+    return `I am ${this.name}, a ${this.role}.\n` +
+      `I work with: ${this.stack.join(", ")}.\n` +
+      `Thanks for dropping by!`;
   }
 }
 
